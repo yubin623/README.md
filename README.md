@@ -20,7 +20,9 @@
 **웹 기반 가계부 서비스** (https://github.com/Gyeong-creator/-5-)
 > Python Flask와 MySQL 기반으로 수입/지출 기록, 기간별 통계 및 소비 패턴을 시각화하는 웹 서비스
 
-프로젝트 목적: 간단하고 직관적인 가계부 서비스를 만들어, 소비 패턴 시각화를 통해 사용자가 자신의 재정을 쉽게 관리하도록 돕는 것입니다
+**프로젝트 목적**
+
+간단하고 직관적인 가계부 서비스를 만들어, 소비 패턴 시각화를 통해 사용자가 자신의 재정을 쉽게 관리하도록 돕는 것
 
 ## 프로젝트에서 맡고 있는 역할
 **주요 역할**: Full-Stack Contributor & Committer
@@ -33,8 +35,6 @@
 <img src="https://ghchart.rshah.org/219138/yubin623"/>
 
 ![GitHub Activity Feed](https://activity-graph.vercel.app/graph?username=yubin623&theme=react)
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yubin623&show_icons=true&theme=buefy)
 
 ![yubin's github stats](https://github-readme-stats.vercel.app/api?username=yubin623&show_icons=true&theme=tokyonight)
 
