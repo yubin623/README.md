@@ -36,6 +36,8 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yubin623&show_icons=true&theme=buefy)
 
+![yubin's github stats](https://github-readme-stats.vercel.app/api?username=yubin623&show_icons=true&theme=tokyonight)
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yubin623&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
@@ -58,4 +60,5 @@
   width="600"
   height="300"
 />
+</a>
 </a>
