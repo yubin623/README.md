@@ -88,7 +88,7 @@
 | PR/이슈 ID | 유형 | 상세 내용 | 주요 기여 파일 |
 | :---: | :---: | :--- | :--- |
 | **PR #57** | `fix` | Git 병합(Merge) 실패 후 `develop` 브랜치에 대한 **쿼리 인자 누락 문제**(`category`, `pay`)를 수정하고 안전하게 재통합 | `modules/ledger.py`, `app.py` |
-| **Issue #64** | `fix` | `수정 버튼을 누른 후의 UI 깨짐 현상 수정 | `static/css/ledger.css` |
+| **Issue #64** | `fix` | 수정 버튼을 누른 후의 UI 깨짐 현상 수정 | `static/css/ledger.css` |
 | **PR #65** | `style` | 거래 내역 테이블 헤더에 `white-space: nowrap`을 적용하여 **줄 바꿈으로 인한 UI 깨짐** 현상 수정 | `static/css/ledger.css` |
 | **PR #63** | `feat` | 로그인 화면에 **회원가입 링크를 추가**하고 CSS 스타일링 (UX 개선) | `templates/login.html`, `static/css/login.css` |
 
